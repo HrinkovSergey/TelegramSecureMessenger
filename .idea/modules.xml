@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelegramSecureMessenger.iml" filepath="$PROJECT_DIR$/.idea/modules/TelegramSecureMessenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TelegramSecureMessenger.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
