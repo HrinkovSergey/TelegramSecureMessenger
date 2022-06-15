@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Telegram Secure Messenger</string>
+    <string name="password_label">Password</string>
+    <string name="hint_user_password">Enter the password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="no_user_input">password can\'t be empty</string>
+</resources>
